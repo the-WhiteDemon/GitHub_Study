@@ -1,0 +1,19 @@
+Git Bash 常用指令
+$ git init 	- 初始化仓库
+$ git add  - 添加文件到暂存区
+$ git commit - 将暂存区内容添加到仓库
+
+$ git clone - 拷贝一份远程仓库，也就是下载一个项目
+
+$ git remote - 远程仓库操作
+$ git fetch - 从远程获取代码库
+$ git pull - 下载远程代码并合并  -- git pull --rebase origin master
+$ git push - 上传远程代码并合并
+
+Git GUI 快捷键
+Rescan - 刷新 - F5
+Stage Changed - 全部提交缓存
+上方菜单栏[Commit]中的[Stage To Commit] - 单个指定文件提交缓存 - Ctrl + T
+上方菜单栏[Commit]中的[Unstage From Commit] - 取消提交缓存 - Ctrl + U
+Sign Off - 签名 - Ctrl + S
+Commit - 提交 - Ctrl + Return
