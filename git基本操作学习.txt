@@ -2,6 +2,7 @@ Git Bash 常用指令
 $ git init 	- 初始化仓库
 $ git add  - 添加文件到暂存区
 $ git commit - 将暂存区内容添加到仓库
+$ git log -查看仓库提交历史
 
 $ git clone - 拷贝一份远程仓库，也就是下载一个项目
 
